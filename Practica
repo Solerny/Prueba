@@ -6,38 +6,39 @@
     <title>Receta rápida de hummus</title>
   </head>
   <body>
-    Receta rápida de hummus
+    <h1>Receta rápida de hummus</h1>
 
-    Esta receta prepara un hummus rápido y sabroso, sin ensuciar. Ha sido adaptado de varias recetas diferentes que he leído a lo largo de los años.
+<p>Esta receta hace un hummus rápido y sabroso, sin ensuciar.</p> 
+<p>Ha sido adaptada de varias recetas diferentes que he leído a lo largo de los años.</p>
 
-    El hummus es una deliciosa pasta espesa que se utiliza mucho en platos griegos y de Oriente Medio. Es muy sabroso con ensaladas, carnes a la parrilla y pan pita.
+<p>El hummus es una deliciosa pasta espesa que se usa mucho en platos griegos y del Medio Oriente. Es muy sabroso con ensalada, carne a las brasas y pan de pitta.</p>
 
-    Ingredientes
+<strong>Ingredientes</strong>
+<ul>
+<li>1 lata (400g) de garbanzos (garbanzos)</li>
+<li>175g de tahini</li>
+<li>6 tomates secos</li>
+<li>Medio pimiento rojo</li>
+<li>Una pizca de pimienta de cayena</li>
+<li>1 diente de ajo</li>
+<li>Una pizca de aceite de oliva</li>
+</ul>
+<strong>Instrucciones</strong>
+<ol>
+<li>Retira la piel del ajo y pica en trozos grandes.</li>
+<li>Retira todas las semillas y el tallo del pimiento y pica en trozos grandes.
+<li>Agrega todos los ingredientes en un procesador de alimentos.
+<li>Procesa todos los ingredientes en una pasta
+</ol>
+<em><p>Si deseas un hummus "grueso", procésalo corto tiempo</p></em>
+<em><p>Si deseas un hummus "suave", procésalo por más tiempo</p></em>
 
-    1 lata (400g) de garbanzos (garbanzos)
-    175 g de tahini
-    6 tomates secos
-    Medio pimiento rojo
-    Una pizca de pimienta de cayena
-    1 diente de ajo
-    Un chorrito de aceite de oliva
+Para un sabor diferente, puedes intentar mezclar en una pequeña medida de limón y cilantro, ají, lima y chipotle, harissa y menta, o espinacas y queso feta. Pruébalo y confirma que esté en su punto.
 
-    Instrucciones
+<strong><p>Almacenamiento</strong></p>
 
-    Retire la piel del ajo y pique en trozos grandes.
-    Retire todas las semillas y el tallo del pimiento y pique en trozos grandes.
-    Agrega todos los ingredientes en un procesador de alimentos.
-    Procesa todos los ingredientes hasta obtener una pasta.
-    Si quieres un hummus grueso y "con trozos", procésalo por un corto tiempo.
-    Si quieres un hummus suave, procésalo por más tiempo.
+Refrigera el hummus terminado en un recipiente sellado. Deberías poder usarlo durante aproximadamente una semana después de haberlo hecho. Si comienza a burbujear, definitivamente debes desecharlo.
 
-    Para darle un sabor diferente, puedes intentar mezclar una pequeña medida de limón y cilantro, ají, lima y chipotle, harissa y menta, o espinacas y queso feta. Experimente y vea qué funciona para usted.
-
-    Almacenamiento
-
-    Refrigere el hummus terminado en un recipiente sellado. Deberías poder usarlo durante aproximadamente una semana después de haberlo preparado. Si comienza a burbujear, definitivamente debes desecharlo.
-
-    El hummus es apto para congelar; debes descongelarlo y usarlo dentro de un par de meses.
-
+El hummus es apto para congelar; debes descongelarlo y usarlo en un par de meses.
   </body>
 </html>
