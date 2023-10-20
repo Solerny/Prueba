@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Reporte</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1 id="title" class="text-center">Realiza tu reporte</h1>
+    <p id="description" class="text-description">Gracias por confiar en nosotros y contribuir a mejorar la plataforma</p>
+  </header>
+
+  <main>
+    <form id="survey-form">
+      <label for="name" id="name-label">Nombre Completo</label>
+      <input type="text" id="name" placeholder="Ingrese su nombre" required>
+
+      <label for="email" id="email-label">Correo Electrónico</label>
+      <input type="email" id="email" placeholder="Ingrese su correo" required>
+
+      <label for="number" id="number-label">Edad</label>
+      <input type="number" id="number" placeholder="Edad" min="18" max="120" required>
+
+      <label for="dropdown">Unidad educativa</label>
+      <select id="dropdown">
+        <option disabled selected>Selecciona una opción</option>
+        <option>Isabel Saavedra</option>
+        <option>La Salle</option>
+        <option>Don Bosco</option>
+      </select>
+
+      <fieldset>
+        <legend>¿Recomendarías esta página a tus amigos?</legend>
+        <input type="radio" id="op1" value="op1" name="recommendation" checked>
+        <label for="op1">Definitivamente</label><br>
+
+        <input type="radio" id="op2" value="op2" name="recommendation">
+        <label for="op2">Tal vez</label><br>
+
+        <input type="radio" id="op3" value="op3" name="recommendation">
+        <label for="op3">No estoy seguro</label><br>    
+      </fieldset>
+
+      <fieldset>
+        <legend>Tipo de acoso</legend>
+        <input type="checkbox" value="v1"> Acoso Verbal<br>
+        <input type="checkbox" value="v2"> Acoso Social o Relacional<br>
+        <input type="checkbox" value="v3"> Acoso Físico<br>
+        <input type="checkbox" value="v4"> Acoso Cibernético<br>
+        <input type="checkbox" value="v5"> Acoso Sexual<br>
+        <input type="checkbox" value="v6"> Acoso Racial<br>
+        <input type="checkbox" value="v7"> Acoso por Orientación Sexual<br>
+        <input type="checkbox" value="v8"> Acoso por Discapacidad<br>
+        <input type="checkbox" value="v9"> Acoso Psicológico o Emocional<br>
+        <input type="checkbox" value="v10"> Acoso por Motivos de Apariencia Física<br>
+      </fieldset>
+
+      <label for="comments">Por favor, proporcione cualquier información adicional relevante acerca del incidente</label>
+      <textarea id="comments" rows="4"></textarea>
+
+      <input id="submit" type="submit" value="Enviar Reporte">
+    </form>
+  </main>
+</body>
+</html>
